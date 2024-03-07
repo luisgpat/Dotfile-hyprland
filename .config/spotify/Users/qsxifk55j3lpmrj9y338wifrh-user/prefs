@@ -1,3 +1,0 @@
-connect.dial_devices="[{\"address\":\"192.168.1.5\",\"app_state\":\"MISSING\",\"created_timestamp\":1704149460,\"device_id\":\"62c305ec-a9cf-4eef-a37d-420ec7f3b81c\",\"dial_location_url\":\"http://192.168.1.5:7678/nservice/\",\"display_name\":\"[TV] Samsung 4 Series (32)\",\"last_seen\":1704149758,\"manufacturer\":\"Samsung Electronics\",\"model_name\":\"UN32T4300AKXZL\",\"public_ip\":\"181.139.20.203\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"d0c24e932ff5\",\"port\":9,\"retries\":400}}]"
-audio.play_bitrate_non_metered_migrated=true
-app.player.volume=29607
