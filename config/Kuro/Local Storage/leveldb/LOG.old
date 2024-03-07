@@ -1,0 +1,9 @@
+2024/03/05-12:34:32.090 e090 Reusing MANIFEST /home/luigo/.config/Kuro/Local Storage/leveldb/MANIFEST-000001
+2024/03/05-12:34:32.100 e090 Recovering log #41
+2024/03/05-12:34:32.101 e090 Reusing old log /home/luigo/.config/Kuro/Local Storage/leveldb/000041.log 
+2024/03/05-12:35:32.723 e092 Level-0 table #45: started
+2024/03/05-12:35:32.733 e092 Level-0 table #45: 24662 bytes OK
+2024/03/05-12:35:32.735 e092 Delete type=0 #41
+2024/03/05-14:46:32.722 e092 Level-0 table #47: started
+2024/03/05-14:46:32.732 e092 Level-0 table #47: 25936 bytes OK
+2024/03/05-14:46:32.735 e092 Delete type=0 #44

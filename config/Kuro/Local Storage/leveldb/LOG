@@ -1,0 +1,15 @@
+2024/03/06-16:33:24.395 11563 Reusing MANIFEST /home/luigo/.config/Kuro/Local Storage/leveldb/MANIFEST-000001
+2024/03/06-16:33:24.400 11563 Recovering log #46
+2024/03/06-16:33:24.401 11563 Reusing old log /home/luigo/.config/Kuro/Local Storage/leveldb/000046.log 
+2024/03/06-16:34:25.128 11565 Level-0 table #50: started
+2024/03/06-16:34:25.139 11565 Level-0 table #50: 25957 bytes OK
+2024/03/06-16:34:25.142 11565 Delete type=0 #46
+2024/03/06-16:34:25.143 11565 Compacting 4@0 + 1@1 files
+2024/03/06-16:34:25.146 11565 Generated table #51@0: 37 keys, 52387 bytes
+2024/03/06-16:34:25.146 11565 Compacted 4@0 + 1@1 files => 52387 bytes
+2024/03/06-16:34:25.148 11565 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/06-16:34:25.148 11565 Delete type=2 #50
+2024/03/06-16:34:25.148 11565 Delete type=2 #39
+2024/03/06-16:34:25.148 11565 Delete type=2 #45
+2024/03/06-16:34:25.148 11565 Delete type=2 #47
+2024/03/06-16:34:25.148 11565 Delete type=2 #42

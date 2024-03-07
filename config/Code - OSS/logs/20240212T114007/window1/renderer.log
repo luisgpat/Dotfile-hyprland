@@ -1,0 +1,22 @@
+2024-02-12 11:40:08.181 [info] Started local extension host with pid 3085.
+2024-02-12 11:40:08.243 [info] Started initializing default profile extensions in extensions installation folder. file:///home/luigo/.vscode-oss/extensions
+2024-02-12 11:40:08.546 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/luigo/.vscode-oss/extensions
+2024-02-12 11:40:11.440 [info] [perf] Render performance baseline is 162ms
+2024-02-12 11:40:18.954 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async ne (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:28369)
+    at async re.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:28590)
+    at async oe.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2741:11958)
+    at async te.Ac (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2677:22427)
+    at async te.lc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2677:12777
+2024-02-12 11:40:20.681 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async ne (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:28369)
+    at async re.query (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:782:28590)
+    at async oe.queryGallery (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2741:11958)
+    at async de.Ac (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2677:22427)
+    at async de.lc (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2677:12777

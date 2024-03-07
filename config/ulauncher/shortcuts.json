@@ -1,0 +1,42 @@
+{
+    "1f51d15b-ec9a-43c9-a81c-b1921cf17bbb": {
+        "id": "1f51d15b-ec9a-43c9-a81c-b1921cf17bbb",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1703823866.223606
+    },
+    "4e2c2f21-1bcb-4efe-8a92-e7f17f46fae9": {
+        "id": "4e2c2f21-1bcb-4efe-8a92-e7f17f46fae9",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "https://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1703823866.2236187
+    },
+    "359e0651-fc2e-4551-8047-0de524180e85": {
+        "id": "359e0651-fc2e-4551-8047-0de524180e85",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1703823866.2236292
+    },
+    "41e3edd9-5f21-4e03-8f20-aeed207914db": {
+        "id": "41e3edd9-5f21-4e03-8f20-aeed207914db",
+        "name": "Youtube",
+        "keyword": "y",
+        "cmd": "https://www.youtube.com/results?search_query=%s",
+        "icon": "~/Downloads/youtube_ico.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1703824343.08527
+    }
+}

@@ -1,0 +1,67 @@
+2024-03-06 12:04:03.979 [info] Deleted uninstalled extension from disk catppuccin.catppuccin-vsc-icons /home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.8.0-universal
+2024-03-06 12:04:04.063 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.8.0-universal.18dca7c8.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.8.0-universal.18dca7c8.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 12:04:07.788 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-03-06 12:04:07.791 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2024-03-06 12:04:09.247 [info] Installing extension: catppuccin.catppuccin-vsc
+2024-03-06 12:04:09.248 [info] Installing extension: catppuccin.catppuccin-vsc-icons
+2024-03-06 12:04:11.001 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 12:04:11.006 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc
+2024-03-06 12:04:11.028 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.2-universal: catppuccin.catppuccin-vsc
+2024-03-06 12:04:11.031 [info] Renamed to /home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.11.2-universal
+2024-03-06 12:04:11.033 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2024-03-06 12:04:11.042 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2024-03-06 12:04:11.045 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-3.11.1-universal
+2024-03-06 12:04:11.114 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 12:04:12.164 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 12:04:12.165 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc-icons
+2024-03-06 12:04:13.284 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.9.1-universal: catppuccin.catppuccin-vsc-icons
+2024-03-06 12:04:13.297 [info] Renamed to /home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.9.1-universal
+2024-03-06 12:04:13.299 [info] Extracting extension completed. catppuccin.catppuccin-vsc-icons
+2024-03-06 12:04:13.308 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons
+2024-03-06 12:04:13.311 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-icons-1.9.0-universal
+2024-03-06 12:04:13.381 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 12:05:32.759 [info] Getting Manifest... jeanp413.open-remote-ssh
+2024-03-06 12:05:33.014 [info] Installing extension: jeanp413.open-remote-ssh
+2024-03-06 12:05:34.533 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 12:05:34.534 [info] Extension signature verification is not done: jeanp413.open-remote-ssh
+2024-03-06 12:05:34.548 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/jeanp413.open-remote-ssh-0.0.45-universal: jeanp413.open-remote-ssh
+2024-03-06 12:05:34.559 [info] Renamed to /home/luigo/.vscode-oss/extensions/jeanp413.open-remote-ssh-0.0.45-universal
+2024-03-06 12:05:34.562 [info] Extracting extension completed. jeanp413.open-remote-ssh
+2024-03-06 12:05:34.572 [info] Extension installed successfully: jeanp413.open-remote-ssh
+2024-03-06 12:05:34.658 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)

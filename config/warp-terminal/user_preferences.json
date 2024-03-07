@@ -1,0 +1,19 @@
+{
+  "prefs": {
+    "WelcomeTipsCompleted": "true",
+    "OverrideOpacity": "74",
+    "FontSize": "13.0",
+    "HonorPS1": "false",
+    "ExperimentId": "559791df-809c-4db9-bfd3-8d1cb6f6fcc0",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"ThemePicker\"},{\"Action\":\"WarpAI\"},{\"Hint\":\"BlockSelect\"},{\"Action\":\"CommandSearch\"},{\"Action\":\"AiCommandSearch\"},{\"Hint\":\"CreateBlock\"},{\"Action\":\"CommandPalette\"},{\"Action\":\"OpenWarpDrive\"},{\"Hint\":\"BlockAction\"}]",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "Spacing": "\"Compact\"",
+    "Theme": "{\"Custom\":{\"name\":\"Catppuccin Mocha\",\"path\":\"/home/luigo/.local/share/warp-terminal/themes/catppuccin_mocha.yml\"}}",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":0,\"next_refresh_time\":\"2024-02-23T22:08:14.932226Z\"}",
+    "AutosuggestionAcceptedCount": "2",
+    "Shortcuts": "true",
+    "FontName": "\"JetBrainsMono Nerd Font Mono\"",
+    "ChangelogVersions": "{\"v0.2024.02.20.08.01.stable_01\":true,\"v0.2024.02.20.08.01.stable_02\":true,\"v0.2024.02.27.08.01.stable_03\":true,\"v0.2024.03.05.08.02.stable_00\":true}",
+    "HasAutoOpenedWelcomeFolder": "true"
+  }
+}

@@ -1,0 +1,87 @@
+{
+    "layer": "top",
+    "position": "top",
+    "mode": "dock",
+    "passthrough": false,
+    "height": 15,
+    "gtk-layer-shell": true,
+    "modules-left": ["custom/launch_wofi","hyprland/workspaces", "hyprland/mode"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["hyprland/language","battery","backlight","pulseaudio","pulseaudio#microphone", "clock","tray","custom/power_btn"],
+    "hyprland/window": {
+        "max-length": 50
+    },
+    "custom/launch_wofi":{
+    	"format": "",
+        "on-click": "pkill wofi; wofi -n",
+        "tooltip": false
+    },
+    "pulseaudio#microphone": {
+        "format": "{format_source}",
+        "format-source": " {volume}%",
+        "format-source-muted": "",
+        "on-click": "pamixer --default-source -t",
+        "on-click-right": "pavucontrol",
+        "on-scroll-up": "pamixer --default-source -i 5",
+        "on-scroll-down": "pamixer --default-source -d 5",
+        "scroll-step": 5
+    },
+    "backlight": {
+        "device": "intel_backlight",
+        "format": "{icon} {percent}%",
+        "format-icons": ["󰃞", "󰃟", "󰃠"],
+        "on-scroll-up": "brightnessctl set 1%+",
+        "on-scroll-down": "brightnessctl set 1%-",
+        "min-length": 6
+    },
+    "pulseaudio": {
+        "format": "{icon} {volume}%",
+        "format-muted": "",
+        "on-click": "pamixer -t",
+        "on-click-right": "pavucontrol",
+        "on-scroll-up": "pamixer --allow-boost --set-limit 150 -i 2",
+        "on-scroll-down": "pamixer --allow-boost -d 2",
+        "scroll-step": 5,
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        }
+    },
+
+    "battery": {
+        "format": "{capacity}% {icon}",
+        "format-icons": ["", "", "", "", ""]
+    },
+    "hyprland/language": {
+        "format": "{short}",
+    },
+    "clock": {
+        "format-alt": "{:%a, %d. %b  %H:%M}"
+    },
+    "custom/power_btn": {
+        "format": "",
+        "on-click": "sh -c '(sleep 0.5s; wlogout --protocol layer-shell)' & disown",
+        "tooltip": false
+    },
+    "hyprland/workspaces": {
+    	"format": "{icon}",
+  	"on-click": "activate",
+ 	 "format-icons": {
+ 	 	"active": "",
+  		"urgent": "",
+    		"default": ""
+	},
+	"persistent-workspaces": {
+        	"1": [],
+        	"2": [],
+        	"3": [],
+        	"4": [],
+        	"5": [],
+    }
+}
+}

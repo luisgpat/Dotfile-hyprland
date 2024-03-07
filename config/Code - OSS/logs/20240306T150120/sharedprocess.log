@@ -1,0 +1,117 @@
+2024-03-06 15:08:34.105 [info] Getting Manifest... asvetliakov.vscode-neovim
+2024-03-06 15:08:34.255 [info] Installing extension: asvetliakov.vscode-neovim
+2024-03-06 15:08:37.218 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 15:08:37.223 [info] Extension signature verification is not done: asvetliakov.vscode-neovim
+2024-03-06 15:08:37.294 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.6.1-universal: asvetliakov.vscode-neovim
+2024-03-06 15:08:37.298 [info] Renamed to /home/luigo/.vscode-oss/extensions/asvetliakov.vscode-neovim-1.6.1-universal
+2024-03-06 15:08:37.300 [info] Extracting extension completed. asvetliakov.vscode-neovim
+2024-03-06 15:08:37.309 [info] Extension installed successfully: asvetliakov.vscode-neovim
+2024-03-06 15:08:37.385 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 15:10:29.905 [info] Uninstalling extension from the profile: asvetliakov.vscode-neovim@1.6.1 vscode-userdata:/home/luigo/.vscode-oss/extensions/extensions.json
+2024-03-06 15:10:29.965 [info] Marked extension as uninstalled asvetliakov.vscode-neovim-1.6.1-universal
+2024-03-06 15:10:29.998 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 15:10:31.103 [info] Successfully uninstalled extension from the profile asvetliakov.vscode-neovim@1.6.1 vscode-userdata:/home/luigo/.vscode-oss/extensions/extensions.json
+2024-03-06 15:10:33.290 [info] Getting Manifest... vscodevim.vim
+2024-03-06 15:10:33.635 [info] Installing extension: vscodevim.vim
+2024-03-06 15:10:35.857 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 15:10:35.857 [info] Extension signature verification is not done: vscodevim.vim
+2024-03-06 15:10:35.903 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/vscodevim.vim-1.27.2-universal: vscodevim.vim
+2024-03-06 15:10:35.925 [info] Renamed to /home/luigo/.vscode-oss/extensions/vscodevim.vim-1.27.2-universal
+2024-03-06 15:10:35.927 [info] Extracting extension completed. vscodevim.vim
+2024-03-06 15:10:35.937 [info] Extension installed successfully: vscodevim.vim
+2024-03-06 15:10:36.008 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 15:12:57.561 [info] Getting Manifest... devsense.phptools-vscode
+2024-03-06 15:12:57.699 [info] Installing extension: devsense.phptools-vscode
+2024-03-06 15:12:58.415 [info] Getting Manifest... devsense.composer-php-vscode
+2024-03-06 15:12:58.729 [info] Getting Manifest... devsense.profiler-php-vscode
+2024-03-06 15:12:59.093 [info] Getting Manifest... devsense.intelli-php-vscode
+2024-03-06 15:12:59.454 [info] Installing extension: devsense.composer-php-vscode
+2024-03-06 15:12:59.455 [info] Installing extension: devsense.profiler-php-vscode
+2024-03-06 15:12:59.455 [info] Installing extension: devsense.intelli-php-vscode
+2024-03-06 15:13:01.025 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 15:13:01.026 [info] Extension signature verification is not done: devsense.composer-php-vscode
+2024-03-06 15:13:01.036 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/devsense.composer-php-vscode-1.45.15061-universal: devsense.composer-php-vscode
+2024-03-06 15:13:01.039 [info] Renamed to /home/luigo/.vscode-oss/extensions/devsense.composer-php-vscode-1.45.15061-universal
+2024-03-06 15:13:01.041 [info] Extracting extension completed. devsense.composer-php-vscode
+2024-03-06 15:13:01.122 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 15:13:01.164 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 15:13:01.165 [info] Extension signature verification is not done: devsense.profiler-php-vscode
+2024-03-06 15:13:01.180 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/devsense.profiler-php-vscode-1.44.14997-universal: devsense.profiler-php-vscode
+2024-03-06 15:13:01.183 [info] Renamed to /home/luigo/.vscode-oss/extensions/devsense.profiler-php-vscode-1.44.14997-universal
+2024-03-06 15:13:01.185 [info] Extracting extension completed. devsense.profiler-php-vscode
+2024-03-06 15:13:13.673 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 15:13:13.674 [info] Extension signature verification is not done: devsense.phptools-vscode
+2024-03-06 15:13:13.955 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/devsense.phptools-vscode-1.45.15061-linux-x64: devsense.phptools-vscode
+2024-03-06 15:13:13.969 [info] Renamed to /home/luigo/.vscode-oss/extensions/devsense.phptools-vscode-1.45.15061-linux-x64
+2024-03-06 15:13:13.973 [info] Extracting extension completed. devsense.phptools-vscode
+2024-03-06 15:13:14.054 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-06 15:14:13.649 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-03-06 15:14:13.650 [info] Extension signature verification is not done: devsense.intelli-php-vscode
+2024-03-06 15:14:15.127 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/devsense.intelli-php-vscode-0.12.15062-linux-x64: devsense.intelli-php-vscode
+2024-03-06 15:14:15.139 [info] Renamed to /home/luigo/.vscode-oss/extensions/devsense.intelli-php-vscode-0.12.15062-linux-x64
+2024-03-06 15:14:15.142 [info] Extracting extension completed. devsense.intelli-php-vscode
+2024-03-06 15:14:15.153 [info] Extension installed successfully: devsense.composer-php-vscode
+2024-03-06 15:14:15.153 [info] Extension installed successfully: devsense.profiler-php-vscode
+2024-03-06 15:14:15.153 [info] Extension installed successfully: devsense.phptools-vscode
+2024-03-06 15:14:15.153 [info] Extension installed successfully: devsense.intelli-php-vscode
+2024-03-06 15:14:15.225 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)

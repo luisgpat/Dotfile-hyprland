@@ -1,0 +1,364 @@
+2024-03-06 15:01:21.003 [info] Started local extension host with pid 51713.
+2024-03-06 15:01:21.062 [error] Extension 'jeanp413.open-remote-ssh CANNOT USE these API proposals 'resolvers, contribViewsRemote'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-03-06 15:01:21.074 [warning] [golang.go]: Cannot register 'go.buildOnSave'. This property is already registered.
+2024-03-06 15:01:21.074 [warning] [golang.go]: Cannot register 'go.buildFlags'. This property is already registered.
+2024-03-06 15:01:21.075 [warning] [golang.go]: Cannot register 'go.buildTags'. This property is already registered.
+2024-03-06 15:01:21.075 [warning] [golang.go]: Cannot register 'go.testTags'. This property is already registered.
+2024-03-06 15:01:21.075 [warning] [golang.go]: Cannot register 'go.disableConcurrentTests'. This property is already registered.
+2024-03-06 15:01:21.076 [warning] [golang.go]: Cannot register 'go.installDependenciesWhenBuilding'. This property is already registered.
+2024-03-06 15:01:21.076 [warning] [golang.go]: Cannot register 'go.lintOnSave'. This property is already registered.
+2024-03-06 15:01:21.077 [warning] [golang.go]: Cannot register 'go.lintTool'. This property is already registered.
+2024-03-06 15:01:21.077 [warning] [golang.go]: Cannot register 'go.lintFlags'. This property is already registered.
+2024-03-06 15:01:21.078 [warning] [golang.go]: Cannot register 'go.vetOnSave'. This property is already registered.
+2024-03-06 15:01:21.078 [warning] [golang.go]: Cannot register 'go.vetFlags'. This property is already registered.
+2024-03-06 15:01:21.079 [warning] [golang.go]: Cannot register 'go.formatTool'. This property is already registered.
+2024-03-06 15:01:21.079 [warning] [golang.go]: Cannot register 'go.formatFlags'. This property is already registered.
+2024-03-06 15:01:21.079 [warning] [golang.go]: Cannot register 'go.inferGopath'. This property is already registered.
+2024-03-06 15:01:21.080 [warning] [golang.go]: Cannot register 'go.gopath'. This property is already registered.
+2024-03-06 15:01:21.080 [warning] [golang.go]: Cannot register 'go.toolsGopath'. This property is already registered.
+2024-03-06 15:01:21.081 [warning] [golang.go]: Cannot register 'go.goroot'. This property is already registered.
+2024-03-06 15:01:21.081 [warning] [golang.go]: Cannot register 'go.testOnSave'. This property is already registered.
+2024-03-06 15:01:21.081 [warning] [golang.go]: Cannot register 'go.coverOnSave'. This property is already registered.
+2024-03-06 15:01:21.081 [warning] [golang.go]: Cannot register 'go.coverOnTestPackage'. This property is already registered.
+2024-03-06 15:01:21.082 [warning] [golang.go]: Cannot register 'go.coverOnSingleTest'. This property is already registered.
+2024-03-06 15:01:21.082 [warning] [golang.go]: Cannot register 'go.coverOnSingleTestFile'. This property is already registered.
+2024-03-06 15:01:21.082 [warning] [golang.go]: Cannot register 'go.coverMode'. This property is already registered.
+2024-03-06 15:01:21.083 [warning] [golang.go]: Cannot register 'go.coverShowCounts'. This property is already registered.
+2024-03-06 15:01:21.084 [warning] [golang.go]: Cannot register 'go.coverageOptions'. This property is already registered.
+2024-03-06 15:01:21.084 [warning] [golang.go]: Cannot register 'go.coverageDecorator'. This property is already registered.
+2024-03-06 15:01:21.085 [warning] [golang.go]: Cannot register 'go.testTimeout'. This property is already registered.
+2024-03-06 15:01:21.085 [warning] [golang.go]: Cannot register 'go.testEnvVars'. This property is already registered.
+2024-03-06 15:01:21.085 [warning] [golang.go]: Cannot register 'go.testEnvFile'. This property is already registered.
+2024-03-06 15:01:21.085 [warning] [golang.go]: Cannot register 'go.testFlags'. This property is already registered.
+2024-03-06 15:01:21.086 [warning] [golang.go]: Cannot register 'go.generateTestsFlags'. This property is already registered.
+2024-03-06 15:01:21.086 [warning] [golang.go]: Cannot register 'go.toolsEnvVars'. This property is already registered.
+2024-03-06 15:01:21.086 [warning] [golang.go]: Cannot register 'go.useLanguageServer'. This property is already registered.
+2024-03-06 15:01:21.087 [warning] [golang.go]: Cannot register 'go.languageServerFlags'. This property is already registered.
+2024-03-06 15:01:21.087 [warning] [golang.go]: Cannot register 'go.trace.server'. This property is already registered.
+2024-03-06 15:01:21.087 [warning] [golang.go]: Cannot register 'go.logging.level'. This property is already registered.
+2024-03-06 15:01:21.087 [warning] [golang.go]: Cannot register 'go.toolsManagement.checkForUpdates'. This property is already registered.
+2024-03-06 15:01:21.088 [warning] [golang.go]: Cannot register 'go.toolsManagement.autoUpdate'. This property is already registered.
+2024-03-06 15:01:21.088 [warning] [golang.go]: Cannot register 'go.enableCodeLens'. This property is already registered.
+2024-03-06 15:01:21.089 [warning] [golang.go]: Cannot register 'go.addTags'. This property is already registered.
+2024-03-06 15:01:21.089 [warning] [golang.go]: Cannot register 'go.removeTags'. This property is already registered.
+2024-03-06 15:01:21.090 [warning] [golang.go]: Cannot register 'go.playground'. This property is already registered.
+2024-03-06 15:01:21.090 [warning] [golang.go]: Cannot register 'go.editorContextMenuCommands'. This property is already registered.
+2024-03-06 15:01:21.091 [warning] [golang.go]: Cannot register 'go.delveConfig'. This property is already registered.
+2024-03-06 15:01:21.091 [warning] [golang.go]: Cannot register 'go.alternateTools'. This property is already registered.
+2024-03-06 15:01:21.092 [warning] [golang.go]: Cannot register 'gopls'. This property is already registered.
+2024-03-06 15:01:21.107 [info] [golang.go]: Command `go.gopath` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.108 [info] [golang.go]: Command `go.locate.tools` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.108 [info] [golang.go]: Command `go.test.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.109 [info] [golang.go]: Command `go.subtest.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.109 [info] [golang.go]: Command `go.benchmark.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.109 [info] [golang.go]: Command `go.debug.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.109 [info] [golang.go]: Command `go.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.109 [info] [golang.go]: Command `go.test.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.110 [info] [golang.go]: Command `go.benchmark.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.110 [info] [golang.go]: Command `go.benchmark.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.110 [info] [golang.go]: Command `go.test.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.110 [info] [golang.go]: Command `go.test.previous` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.110 [info] [golang.go]: Command `go.test.coverage` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.111 [info] [golang.go]: Command `go.test.generate.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.111 [info] [golang.go]: Command `go.test.generate.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.111 [info] [golang.go]: Command `go.test.generate.function` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.111 [info] [golang.go]: Command `go.impl.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.111 [info] [golang.go]: Command `go.extractServerChannel` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.112 [info] [golang.go]: Command `go.welcome` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.112 [info] [golang.go]: Command `go.toggle.gc_details` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.112 [info] [golang.go]: Command `go.import.add` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.113 [info] [golang.go]: Command `go.add.package.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.113 [info] [golang.go]: Command `go.tools.install` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.114 [info] [golang.go]: Command `go.toggle.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.114 [info] [golang.go]: Command `go.add.tags` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.114 [info] [golang.go]: Command `go.remove.tags` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.115 [info] [golang.go]: Command `go.show.commands` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.115 [info] [golang.go]: Command `go.browse.packages` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.116 [info] [golang.go]: Command `go.get.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.116 [info] [golang.go]: Command `go.playground` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.116 [info] [golang.go]: Command `go.lint.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.117 [info] [golang.go]: Command `go.lint.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.117 [info] [golang.go]: Command `go.vet.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.117 [info] [golang.go]: Command `go.vet.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.118 [info] [golang.go]: Command `go.build.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.118 [info] [golang.go]: Command `go.build.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.119 [info] [golang.go]: Command `go.install.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.119 [info] [golang.go]: Command `go.test.cancel` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.120 [info] [golang.go]: Command `go.apply.coverprofile` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.121 [info] [golang.go]: Command `go.languageserver.restart` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.122 [info] [golang.go]: Command `go.environment.choose` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.122 [info] [golang.go]: Command `go.survey.showConfig` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.122 [info] [golang.go]: Command `go.survey.resetConfig` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.123 [info] [golang.go]: Command `go.workspace.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.123 [info] [golang.go]: Command `go.global.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:01:21.155 [warning] [jeanp413.open-remote-ssh]: View container 'remote' requires 'enabledApiProposals: ["contribViewsRemote"]' to be added to 'Remote'.
+2024-03-06 15:01:23.891 [info] [perf] Render performance baseline is 164ms
+2024-03-06 15:01:38.070 [info] Started local extension host with pid 51883.
+2024-03-06 15:01:38.130 [error] Extension 'jeanp413.open-remote-ssh CANNOT USE these API proposals 'resolvers, contribViewsRemote'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-03-06 15:01:38.140 [warning] [golang.go]: Cannot register 'go.buildOnSave'. This property is already registered.
+2024-03-06 15:01:38.140 [warning] [golang.go]: Cannot register 'go.buildFlags'. This property is already registered.
+2024-03-06 15:01:38.141 [warning] [golang.go]: Cannot register 'go.buildTags'. This property is already registered.
+2024-03-06 15:01:38.141 [warning] [golang.go]: Cannot register 'go.testTags'. This property is already registered.
+2024-03-06 15:01:38.141 [warning] [golang.go]: Cannot register 'go.disableConcurrentTests'. This property is already registered.
+2024-03-06 15:01:38.141 [warning] [golang.go]: Cannot register 'go.installDependenciesWhenBuilding'. This property is already registered.
+2024-03-06 15:01:38.142 [warning] [golang.go]: Cannot register 'go.lintOnSave'. This property is already registered.
+2024-03-06 15:01:38.142 [warning] [golang.go]: Cannot register 'go.lintTool'. This property is already registered.
+2024-03-06 15:01:38.142 [warning] [golang.go]: Cannot register 'go.lintFlags'. This property is already registered.
+2024-03-06 15:01:38.142 [warning] [golang.go]: Cannot register 'go.vetOnSave'. This property is already registered.
+2024-03-06 15:01:38.143 [warning] [golang.go]: Cannot register 'go.vetFlags'. This property is already registered.
+2024-03-06 15:01:38.143 [warning] [golang.go]: Cannot register 'go.formatTool'. This property is already registered.
+2024-03-06 15:01:38.143 [warning] [golang.go]: Cannot register 'go.formatFlags'. This property is already registered.
+2024-03-06 15:01:38.143 [warning] [golang.go]: Cannot register 'go.inferGopath'. This property is already registered.
+2024-03-06 15:01:38.143 [warning] [golang.go]: Cannot register 'go.gopath'. This property is already registered.
+2024-03-06 15:01:38.144 [warning] [golang.go]: Cannot register 'go.toolsGopath'. This property is already registered.
+2024-03-06 15:01:38.144 [warning] [golang.go]: Cannot register 'go.goroot'. This property is already registered.
+2024-03-06 15:01:38.144 [warning] [golang.go]: Cannot register 'go.testOnSave'. This property is already registered.
+2024-03-06 15:01:38.144 [warning] [golang.go]: Cannot register 'go.coverOnSave'. This property is already registered.
+2024-03-06 15:01:38.144 [warning] [golang.go]: Cannot register 'go.coverOnTestPackage'. This property is already registered.
+2024-03-06 15:01:38.144 [warning] [golang.go]: Cannot register 'go.coverOnSingleTest'. This property is already registered.
+2024-03-06 15:01:38.145 [warning] [golang.go]: Cannot register 'go.coverOnSingleTestFile'. This property is already registered.
+2024-03-06 15:01:38.145 [warning] [golang.go]: Cannot register 'go.coverMode'. This property is already registered.
+2024-03-06 15:01:38.145 [warning] [golang.go]: Cannot register 'go.coverShowCounts'. This property is already registered.
+2024-03-06 15:01:38.145 [warning] [golang.go]: Cannot register 'go.coverageOptions'. This property is already registered.
+2024-03-06 15:01:38.145 [warning] [golang.go]: Cannot register 'go.coverageDecorator'. This property is already registered.
+2024-03-06 15:01:38.146 [warning] [golang.go]: Cannot register 'go.testTimeout'. This property is already registered.
+2024-03-06 15:01:38.146 [warning] [golang.go]: Cannot register 'go.testEnvVars'. This property is already registered.
+2024-03-06 15:01:38.146 [warning] [golang.go]: Cannot register 'go.testEnvFile'. This property is already registered.
+2024-03-06 15:01:38.146 [warning] [golang.go]: Cannot register 'go.testFlags'. This property is already registered.
+2024-03-06 15:01:38.146 [warning] [golang.go]: Cannot register 'go.generateTestsFlags'. This property is already registered.
+2024-03-06 15:01:38.147 [warning] [golang.go]: Cannot register 'go.toolsEnvVars'. This property is already registered.
+2024-03-06 15:01:38.147 [warning] [golang.go]: Cannot register 'go.useLanguageServer'. This property is already registered.
+2024-03-06 15:01:38.147 [warning] [golang.go]: Cannot register 'go.languageServerFlags'. This property is already registered.
+2024-03-06 15:01:38.147 [warning] [golang.go]: Cannot register 'go.trace.server'. This property is already registered.
+2024-03-06 15:01:38.148 [warning] [golang.go]: Cannot register 'go.logging.level'. This property is already registered.
+2024-03-06 15:01:38.148 [warning] [golang.go]: Cannot register 'go.toolsManagement.checkForUpdates'. This property is already registered.
+2024-03-06 15:01:38.148 [warning] [golang.go]: Cannot register 'go.toolsManagement.autoUpdate'. This property is already registered.
+2024-03-06 15:01:38.149 [warning] [golang.go]: Cannot register 'go.enableCodeLens'. This property is already registered.
+2024-03-06 15:01:38.149 [warning] [golang.go]: Cannot register 'go.addTags'. This property is already registered.
+2024-03-06 15:01:38.149 [warning] [golang.go]: Cannot register 'go.removeTags'. This property is already registered.
+2024-03-06 15:01:38.149 [warning] [golang.go]: Cannot register 'go.playground'. This property is already registered.
+2024-03-06 15:01:38.150 [warning] [golang.go]: Cannot register 'go.editorContextMenuCommands'. This property is already registered.
+2024-03-06 15:01:38.150 [warning] [golang.go]: Cannot register 'go.delveConfig'. This property is already registered.
+2024-03-06 15:01:38.151 [warning] [golang.go]: Cannot register 'go.alternateTools'. This property is already registered.
+2024-03-06 15:01:38.151 [warning] [golang.go]: Cannot register 'gopls'. This property is already registered.
+2024-03-06 15:01:38.157 [info] [golang.go]: Command `go.gopath` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.157 [info] [golang.go]: Command `go.locate.tools` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.157 [info] [golang.go]: Command `go.test.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.158 [info] [golang.go]: Command `go.subtest.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.158 [info] [golang.go]: Command `go.benchmark.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.158 [info] [golang.go]: Command `go.debug.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.159 [info] [golang.go]: Command `go.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.159 [info] [golang.go]: Command `go.test.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.159 [info] [golang.go]: Command `go.benchmark.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.159 [info] [golang.go]: Command `go.benchmark.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.159 [info] [golang.go]: Command `go.test.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.160 [info] [golang.go]: Command `go.test.previous` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.160 [info] [golang.go]: Command `go.test.coverage` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.160 [info] [golang.go]: Command `go.test.generate.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.161 [info] [golang.go]: Command `go.test.generate.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.161 [info] [golang.go]: Command `go.test.generate.function` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.161 [info] [golang.go]: Command `go.impl.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.161 [info] [golang.go]: Command `go.extractServerChannel` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.161 [info] [golang.go]: Command `go.welcome` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.162 [info] [golang.go]: Command `go.toggle.gc_details` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.162 [info] [golang.go]: Command `go.import.add` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.162 [info] [golang.go]: Command `go.add.package.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.162 [info] [golang.go]: Command `go.tools.install` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.162 [info] [golang.go]: Command `go.toggle.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.163 [info] [golang.go]: Command `go.add.tags` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.164 [info] [golang.go]: Command `go.remove.tags` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.164 [info] [golang.go]: Command `go.show.commands` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.164 [info] [golang.go]: Command `go.browse.packages` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.165 [info] [golang.go]: Command `go.get.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.165 [info] [golang.go]: Command `go.playground` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.165 [info] [golang.go]: Command `go.lint.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.165 [info] [golang.go]: Command `go.lint.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.165 [info] [golang.go]: Command `go.vet.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.166 [info] [golang.go]: Command `go.vet.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.166 [info] [golang.go]: Command `go.build.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.166 [info] [golang.go]: Command `go.build.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.166 [info] [golang.go]: Command `go.install.package` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.166 [info] [golang.go]: Command `go.test.cancel` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.166 [info] [golang.go]: Command `go.apply.coverprofile` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.167 [info] [golang.go]: Command `go.languageserver.restart` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.167 [info] [golang.go]: Command `go.environment.choose` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.167 [info] [golang.go]: Command `go.survey.showConfig` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.167 [info] [golang.go]: Command `go.survey.resetConfig` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.167 [info] [golang.go]: Command `go.workspace.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.167 [info] [golang.go]: Command `go.global.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:01:38.188 [warning] [jeanp413.open-remote-ssh]: View container 'remote' requires 'enabledApiProposals: ["contribViewsRemote"]' to be added to 'Remote'.
+2024-03-06 15:01:40.920 [info] [perf] Render performance baseline is 165ms
+2024-03-06 15:08:37.370 [info] [golang.go]: Command `go.gopath` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.370 [info] [golang.go]: Command `go.locate.tools` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.371 [info] [golang.go]: Command `go.test.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.371 [info] [golang.go]: Command `go.subtest.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.371 [info] [golang.go]: Command `go.benchmark.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.372 [info] [golang.go]: Command `go.debug.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.372 [info] [golang.go]: Command `go.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.372 [info] [golang.go]: Command `go.test.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.372 [info] [golang.go]: Command `go.benchmark.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.372 [info] [golang.go]: Command `go.benchmark.file` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.372 [info] [golang.go]: Command `go.test.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.373 [info] [golang.go]: Command `go.test.previous` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.373 [info] [golang.go]: Command `go.test.coverage` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.373 [info] [golang.go]: Command `go.test.generate.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.373 [info] [golang.go]: Command `go.test.generate.file` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.373 [info] [golang.go]: Command `go.test.generate.function` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.373 [info] [golang.go]: Command `go.impl.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.374 [info] [golang.go]: Command `go.extractServerChannel` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.374 [info] [golang.go]: Command `go.welcome` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.374 [info] [golang.go]: Command `go.toggle.gc_details` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.374 [info] [golang.go]: Command `go.import.add` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.374 [info] [golang.go]: Command `go.add.package.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.374 [info] [golang.go]: Command `go.tools.install` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.375 [info] [golang.go]: Command `go.toggle.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.375 [info] [golang.go]: Command `go.add.tags` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.375 [info] [golang.go]: Command `go.remove.tags` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.375 [info] [golang.go]: Command `go.show.commands` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.375 [info] [golang.go]: Command `go.browse.packages` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.375 [info] [golang.go]: Command `go.get.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.376 [info] [golang.go]: Command `go.playground` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.376 [info] [golang.go]: Command `go.lint.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.376 [info] [golang.go]: Command `go.lint.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.376 [info] [golang.go]: Command `go.vet.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.376 [info] [golang.go]: Command `go.vet.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.376 [info] [golang.go]: Command `go.build.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.377 [info] [golang.go]: Command `go.build.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.377 [info] [golang.go]: Command `go.install.package` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.377 [info] [golang.go]: Command `go.test.cancel` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.377 [info] [golang.go]: Command `go.apply.coverprofile` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.377 [info] [golang.go]: Command `go.languageserver.restart` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.378 [info] [golang.go]: Command `go.environment.choose` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.378 [info] [golang.go]: Command `go.survey.showConfig` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.378 [info] [golang.go]: Command `go.survey.resetConfig` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.378 [info] [golang.go]: Command `go.workspace.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:08:37.378 [info] [golang.go]: Command `go.global.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:08:53.303 [info] Started local extension host with pid 53539.
+2024-03-06 15:10:35.983 [info] [golang.go]: Command `go.gopath` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.983 [info] [golang.go]: Command `go.locate.tools` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.984 [info] [golang.go]: Command `go.test.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.984 [info] [golang.go]: Command `go.subtest.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.984 [info] [golang.go]: Command `go.benchmark.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.984 [info] [golang.go]: Command `go.debug.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.985 [info] [golang.go]: Command `go.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.985 [info] [golang.go]: Command `go.test.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.985 [info] [golang.go]: Command `go.benchmark.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.986 [info] [golang.go]: Command `go.benchmark.file` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.986 [info] [golang.go]: Command `go.test.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.986 [info] [golang.go]: Command `go.test.previous` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.986 [info] [golang.go]: Command `go.test.coverage` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.987 [info] [golang.go]: Command `go.test.generate.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.987 [info] [golang.go]: Command `go.test.generate.file` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.987 [info] [golang.go]: Command `go.test.generate.function` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.987 [info] [golang.go]: Command `go.impl.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.987 [info] [golang.go]: Command `go.extractServerChannel` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.988 [info] [golang.go]: Command `go.welcome` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.988 [info] [golang.go]: Command `go.toggle.gc_details` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.988 [info] [golang.go]: Command `go.import.add` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.988 [info] [golang.go]: Command `go.add.package.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.988 [info] [golang.go]: Command `go.tools.install` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.989 [info] [golang.go]: Command `go.toggle.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.989 [info] [golang.go]: Command `go.add.tags` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.989 [info] [golang.go]: Command `go.remove.tags` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.989 [info] [golang.go]: Command `go.show.commands` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.989 [info] [golang.go]: Command `go.browse.packages` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.990 [info] [golang.go]: Command `go.get.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.990 [info] [golang.go]: Command `go.playground` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.990 [info] [golang.go]: Command `go.lint.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.990 [info] [golang.go]: Command `go.lint.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.990 [info] [golang.go]: Command `go.vet.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.991 [info] [golang.go]: Command `go.vet.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.991 [info] [golang.go]: Command `go.build.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.991 [info] [golang.go]: Command `go.build.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.991 [info] [golang.go]: Command `go.install.package` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.991 [info] [golang.go]: Command `go.test.cancel` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.991 [info] [golang.go]: Command `go.apply.coverprofile` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.992 [info] [golang.go]: Command `go.languageserver.restart` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.992 [info] [golang.go]: Command `go.environment.choose` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.992 [info] [golang.go]: Command `go.survey.showConfig` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.992 [info] [golang.go]: Command `go.survey.resetConfig` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.992 [info] [golang.go]: Command `go.workspace.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:10:35.992 [info] [golang.go]: Command `go.global.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:10:36.012 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2024-03-06 15:10:37.218 [error] ENOENT: no such file or directory, open '/home/luigo/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/luigo/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2024-03-06 15:14:15.267 [info] [golang.go]: Command `go.gopath` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.267 [info] [golang.go]: Command `go.locate.tools` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.267 [info] [golang.go]: Command `go.test.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.268 [info] [golang.go]: Command `go.subtest.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.268 [info] [golang.go]: Command `go.benchmark.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.268 [info] [golang.go]: Command `go.debug.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.269 [info] [golang.go]: Command `go.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.269 [info] [golang.go]: Command `go.test.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.269 [info] [golang.go]: Command `go.benchmark.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.269 [info] [golang.go]: Command `go.benchmark.file` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.269 [info] [golang.go]: Command `go.test.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.270 [info] [golang.go]: Command `go.test.previous` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.270 [info] [golang.go]: Command `go.test.coverage` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.270 [info] [golang.go]: Command `go.test.generate.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.270 [info] [golang.go]: Command `go.test.generate.file` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.270 [info] [golang.go]: Command `go.test.generate.function` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.270 [info] [golang.go]: Command `go.impl.cursor` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.271 [info] [golang.go]: Command `go.extractServerChannel` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.271 [info] [golang.go]: Command `go.welcome` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.271 [info] [golang.go]: Command `go.toggle.gc_details` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.271 [info] [golang.go]: Command `go.import.add` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.271 [info] [golang.go]: Command `go.add.package.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.271 [info] [golang.go]: Command `go.tools.install` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.271 [info] [golang.go]: Command `go.toggle.test.file` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.272 [info] [golang.go]: Command `go.add.tags` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.272 [info] [golang.go]: Command `go.remove.tags` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.272 [info] [golang.go]: Command `go.show.commands` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.272 [info] [golang.go]: Command `go.browse.packages` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.272 [info] [golang.go]: Command `go.get.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.273 [info] [golang.go]: Command `go.playground` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.273 [info] [golang.go]: Command `go.lint.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.273 [info] [golang.go]: Command `go.lint.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.273 [info] [golang.go]: Command `go.vet.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.273 [info] [golang.go]: Command `go.vet.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.273 [info] [golang.go]: Command `go.build.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.273 [info] [golang.go]: Command `go.build.workspace` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.274 [info] [golang.go]: Command `go.install.package` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.274 [info] [golang.go]: Command `go.test.cancel` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.274 [info] [golang.go]: Command `go.apply.coverprofile` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.274 [info] [golang.go]: Command `go.languageserver.restart` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.274 [info] [golang.go]: Command `go.environment.choose` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.274 [info] [golang.go]: Command `go.survey.showConfig` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.275 [info] [golang.go]: Command `go.survey.resetConfig` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.275 [info] [golang.go]: Command `go.workspace.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.275 [info] [golang.go]: Command `go.global.resetState` already registered by Go (gattytto.go)
+2024-03-06 15:14:15.296 [info] Ignoring configured affinity for 'asvetliakov.vscode-neovim' because extension host(s) are already running. Reload window.
+2024-03-06 15:14:15.770 [error] [Extension Host] /bin/sh: line 1: php: command not found
+2024-03-06 15:21:06.073 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:21:33.133 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:21:36.391 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:24:51.670 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:09.858 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:29.259 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:33.358 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:36.277 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:40.447 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:41.103 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:46.018 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:47.444 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:48.255 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:25:49.039 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:13.374 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:14.061 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:18.278 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:24.599 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:39.134 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:45.610 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:54.808 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:55.393 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:27:56.369 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:28:09.082 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:28:10.744 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:57:24.885 [error] [Extension Host] Received response message without id. No further error information provided.
+2024-03-06 15:58:17.642 [error] Unable to read file '/home/luigo/Downloads/UN_Oficial/index.html' (Error: File not modified since): Error: Unable to read file '/home/luigo/Downloads/UN_Oficial/index.html' (Error: File not modified since)
+    at n.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:653:19875)
+    at n.D (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:653:19763)
+    at async d.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2423:42865)
+    at async d.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2423:42622)
+    at async T.Cb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2412:13526)
+    at async T.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2412:11973)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2423:38734

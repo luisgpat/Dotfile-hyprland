@@ -1,0 +1,58 @@
+2024-02-24 11:57:54.173 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2024-02-24 11:57:55.614 [info] Installing extension: catppuccin.catppuccin-vsc-icons
+2024-02-24 11:58:08.638 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-24 11:58:08.650 [info] Extension signature verification is not done: catppuccin.catppuccin-vsc-icons
+2024-02-24 11:58:10.424 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.9.0-universal: catppuccin.catppuccin-vsc-icons
+2024-02-24 11:58:10.441 [info] Renamed to /home/luigo/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.9.0-universal
+2024-02-24 11:58:10.443 [info] Extracting extension completed. catppuccin.catppuccin-vsc-icons
+2024-02-24 11:58:10.453 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons
+2024-02-24 11:58:10.457 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-icons-1.8.0-universal
+2024-02-24 11:58:10.528 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-24 12:03:58.839 [info] Getting Manifest... golang.go
+2024-02-24 12:03:58.956 [info] Installing extension: golang.go
+2024-02-24 12:04:02.529 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-24 12:04:02.531 [info] Extension signature verification is not done: golang.go
+2024-02-24 12:04:02.588 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/golang.go-0.41.1-universal: golang.go
+2024-02-24 12:04:02.606 [info] Renamed to /home/luigo/.vscode-oss/extensions/golang.go-0.41.1-universal
+2024-02-24 12:04:02.613 [info] Extracting extension completed. golang.go
+2024-02-24 12:04:02.631 [info] Extension installed successfully: golang.go
+2024-02-24 12:04:02.706 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-24 12:04:57.720 [info] Getting Manifest... gattytto.go
+2024-02-24 12:04:57.840 [info] Installing extension: gattytto.go
+2024-02-24 12:05:01.094 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-24 12:05:01.095 [info] Extension signature verification is not done: gattytto.go
+2024-02-24 12:05:01.159 [info] Extracted extension to file:///home/luigo/.vscode-oss/extensions/gattytto.go-0.23.9-dev-universal: gattytto.go
+2024-02-24 12:05:01.165 [info] Renamed to /home/luigo/.vscode-oss/extensions/gattytto.go-0.23.9-dev-universal
+2024-02-24 12:05:01.168 [info] Extracting extension completed. gattytto.go
+2024-02-24 12:05:01.181 [info] Extension installed successfully: gattytto.go
+2024-02-24 12:05:01.253 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/luigo/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
